@@ -1,0 +1,10 @@
+name: 网易云破解 VIP 黑胶会员
+desc: 网易云破解 VIP 黑胶会员
+tiles:
+  - name: wangyiyunvip
+    icon: 'headphones'
+    backgroundColor: '#e20000'
+    argument: 'songCount='
+script-providers:
+  wangyiyunvip:
+    url: https://proxy.yvan.eu.org/raw.githubusercontent.com/WeiGiegie/666/main/wangyiyun.js
